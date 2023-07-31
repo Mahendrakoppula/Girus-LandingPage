@@ -1,0 +1,59 @@
+.ptb-120 {
+    padding: 25px 0;
+}
+
+.custom-right-margin {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+
+.ptb-120 {
+    padding: 45px 0;
+}
+
+nav.navbar.navbar-expand-xl.navbar-light.sticky-header {
+    color: #737373;
+    background: #111827;
+}
+.hero-section {
+    background-image: linear-gradient(135deg, #ADD8E6, #FFFFE0);
+    /* The gradient colors (#ADD8E6 for light blue and #FFFFE0 for light yellow) and angle (135deg) */
+    /* You can adjust the colors and angle to achieve the desired effect */
+}
+
+
+/* Add other CSS styles for the hero section as needed */
+.hero-content-wrap{
+    /* Add styles for the h1 element inside the hero-content-wrap */
+    color: #ffffff; /* Set the text color to white */
+}
+
+body {
+    /* background-image: radial-gradient(circle, #ff5733, #3333ff); */
+    background-image: linear-gradient(135deg, #e6a8ff, #fff8cc);
+    /* You can customize the gradient by specifying different colors and shapes. */
+    /* radial-gradient(shape, color-stop1, color-stop2, ...); */
+} 
+
+/* .container{
+    background-image: linear-gradient(135deg, #e6a8ff, #fff8cc);
+} */
+
+.customer-review-tab,.sc-blog-section,.sc-service-section,.sc-team-section,.hero-section,.faq-section {
+    background-image: linear-gradient(135deg, #e6a8ff, #fff8cc); 
+    /* The gradient colors and angle are the same as before */
+}
+
+/* .list-inline-item:hover i {
+    background-image: linear-gradient(135deg, #e6a8ff, #fff8cc);
+} */
+
+.list-inline-item i {
+    color: linear-gradient(135deg, #e6a8ff, #fff8cc); /* Replace #000 with the desired original color for the icons */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(135deg, #ADD8E6, #FFFFE0);
+}
+s
